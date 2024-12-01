@@ -5,7 +5,7 @@ Este repositório documenta meu processo de aprendizado em análise de dados atr
 
 **Fases:**
 - Definição do problema e Objetivo;
-- Coleta e Preparação dos Dados;
+- Preparação e Coleta dos Dados;
 - Exploração e Análise dos Dados;
 - Interpretação dos Resultados.
 
