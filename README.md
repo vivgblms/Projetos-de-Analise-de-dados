@@ -11,4 +11,4 @@ Este repositório documenta meu processo de aprendizado em análise de dados atr
 
 **Linguagem:** Python
 
-**Biliotecas:** Pandas, Matplotlib, Searbon
+**Biliotecas:** Pandas, Matplotlib, Searbon, Numpy
