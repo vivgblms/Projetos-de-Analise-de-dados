@@ -1,4 +1,4 @@
-# Repositório de Projetos de Análise de Dados 📌
+# Repositório de Projetos de Análise Exploratória de Dados 📌
 
 Olá! Bem-vindo(a) ao meu portfólio de Data Science. Aqui você encontrará projetos práticos que desenvolvi utilizando *Python* e diversas bibliotecas. 
 Cada pasta contém notebooks detalhados, os dados originais e um README explicando o projeto.
