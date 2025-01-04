@@ -16,8 +16,8 @@ O projeto visa aplicar conhecimentos em Python e análise de dados para investig
 
 O projeto está organizado da seguinte maneira:
 
-- `bad drivers.csv`: Contém os conjuntos de dados utilizados para análise.
-- `Bad drivers.ipynb`: Jupyter Notebooks com as análises exploratórias, visualizações e código.
+- `bad drivers.csv`: Contém o conjunto de dados utilizado para análise.
+- `Bad drivers.ipynb`: Jupyter Notebooks com as análises exploratórias e código.
 - `README.md`: Este arquivo.
 
 ## Tecnologias Utilizadas 🛠️
