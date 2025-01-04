@@ -1,6 +1,7 @@
 # Programa Minha Casa Minha Vida 2024 🏠
 Este repositório documenta meu processo de aprendizado em análise de dados através de um estudo de caso real: o Programa Minha Casa Minha Vida de 2024. Aqui você encontrará os códigos, dados e as conclusões que obtive através dessa análise.
 
+<p align="left"><img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/></p>
 
 ## Objetivos do Projeto 🎯
 
