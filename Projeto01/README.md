@@ -21,7 +21,7 @@ O projeto está organizado da seguinte maneira:
 
 - `Dicionário-dos-conjuntos-de-dados`: Contém o significado das variáveis do conjunto de dados utilizado para análise.
 - `ProgramaMinhaCasaMinhaVida.ipynb`: Jupyter Notebooks com as análises exploratórias e código.
-- - `dados.csv`: Base de dados utilizada esta análise.
+- `dados.csv`: Base de dados utilizada esta análise.
 - `README.md`: Este arquivo.
 
 ## Tecnologias Utilizadas 🛠️
