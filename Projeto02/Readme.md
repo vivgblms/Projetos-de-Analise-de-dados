@@ -28,5 +28,5 @@ O projeto está organizado da seguinte maneira:
 
 ## Fonte 🔍
 
-A base de dados utilizada está disponível no perfil do [FiveThirtyEight](https://github.com/fivethirtyeight).
+A base de dados utilizada está disponível no perfil [FiveThirtyEight](https://github.com/fivethirtyeight).
 
