@@ -19,8 +19,9 @@ Este repositório documenta meu processo de aprendizado em análise de dados atr
 
 O projeto está organizado da seguinte maneira:
 
-- `bad drivers.csv`: Contém o conjunto de dados utilizado para análise.
-- `Bad drivers.ipynb`: Jupyter Notebooks com as análises exploratórias e código.
+- `Dicionário-dos-conjuntos-de-dados`: Contém o significado das variáveis do conjunto de dados utilizado para análise.
+- `ProgramaMinhaCasaMinhaVida.ipynb`: Jupyter Notebooks com as análises exploratórias e código.
+- - `dados.csv`: Base de dados utilizada esta análise.
 - `README.md`: Este arquivo.
 
 ## Tecnologias Utilizadas 🛠️
