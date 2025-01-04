@@ -1,5 +1,5 @@
 
-# Análise Exploratória de Dados: Bad Drivers 🚗
+# Bad Drivers 🚗
 
 O projeto visa aplicar conhecimentos em Python e análise de dados para investigar as causas de infrações de trânsito, buscando identificar os principais fatores que influenciam o comportamento de motoristas infratores e, assim, contribuir para a redução de acidentes.
 
